@@ -85,7 +85,9 @@
 
 ## 9. SecureUxTheme
  
- ![image](https://github.com/namazso/SecureUxTheme/raw/master/resources/screenshot_themetool.png)
+ ![image](https://raw.githubusercontent.com/dlphin/dolphin/main/image.png)
+
+ *Theme used: [Better Aero by niivu](https://www.deviantart.com/niivu/art/Better-Aero-890432532)*
  
  **Supported:** Windows
 
