@@ -1,6 +1,5 @@
 ![My Post-4](https://raw.githubusercontent.com/dlphin/dolphin/main/Untitled.png)
 
-
 <p align=center> A list of tweaks for Windows, Linux and macOS, which can be used to customize your system according to your liking.
 
 
