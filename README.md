@@ -73,6 +73,16 @@ Remember, these tweaks have not been invented by me, but I've surfed the web for
 
 **Installation:** [Github Repo](https://github.com/Eugeny/tabby)
 
+## 8. Picom
+
+ ![image](https://user-images.githubusercontent.com/13266308/74752444-acde8100-523c-11ea-815f-32a9d2738929.png)
+
+ **Supported:** Linux
+
+ **What is it?** Picom is a compositor for X, and a fork of Compton
+
+ **Installation:** [Click here](https://github.com/yshui/picom) to visit the official github repository.
+
 
 ## Contribute:
 
