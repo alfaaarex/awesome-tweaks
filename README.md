@@ -93,6 +93,17 @@
  
  **Installation:** Access [namazso's GitHub repo](https://github.com/namazso/SecureUxTheme) to download or compile the app.
 
+## 10. AltDrag
+
+![image](https://cdn.discordapp.com/attachments/841674788254777374/883029761151098900/unknown.png)
+
+**Supported:** Windows
+
+**What is it?** Easily drag windows when pressing the alt key
+
+**Installation:** [Site](https://stefansundin.github.io/altdrag/)
+
+
 ## Contributing
 Do you want to contribute to the repository? Just use this format and insert what you want, a line after the latest entry.
 
