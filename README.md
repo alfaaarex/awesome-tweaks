@@ -1,4 +1,4 @@
-![My Post-4](https://raw.githubusercontent.com/dlphin/dolphin/main/Untitled.png)
+![My Post-4](https://raw.githubusercontent.com/dlphin/dolphin/58fd8d94f8a8d244b222b99054ce26a2c827e506/pog-tweaks.png)
 
 <p align=center> A list of tweaks for Windows, Linux and macOS, which can be used to customize your system according to your liking.
 
