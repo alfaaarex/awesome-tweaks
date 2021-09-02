@@ -35,4 +35,39 @@ Remember, these tweaks have not been invented by me, but I've surfed the web for
 
 **Installation** [Visit the Author's repository](https://github.com/rocksdanister/lively)
 
+## 4. Oh-My-Posh
 
+**Supported:** macOS, Windows, Linux
+
+**What is it?** A cross platform, highly customizable and extensible prompt theme engine.
+
+**Usage:** [View JanDeDobbeleer's GitHub Repo](https://github.com/JanDeDobbeleer/oh-my-posh)
+
+## 5. Rainmeter
+
+![image](https://user-images.githubusercontent.com/78948152/131816842-80593f47-4e5d-4f7f-bfaa-f9a47707a97d.png)
+
+**Supported:** Windows
+
+**What is it?** Rainmeter allows you to display customizable skins on your desktop, from hardware usage meters to fully functional audio visualizers.
+
+**Installation:** [Check out the official repo](https://github.com/rainmeter/rainmeter)
+
+
+
+## Contribute:
+
+Do you wanna contribute to the repo? Well, just use this format and insert what you want, a line after the latest entry.
+
+```
+## {Sl. No} Name of tweak
+
+[Paste a relevant image of the tweak]
+
+**Supported:** {names of supported platforms}
+
+**What is it?** {describe the tweak or the program}
+
+**Installation:** {link the original source of the program/tweak}
+
+```
