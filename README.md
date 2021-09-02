@@ -1,6 +1,6 @@
 ![My Post-4](https://raw.githubusercontent.com/dlphin/dolphin/58fd8d94f8a8d244b222b99054ce26a2c827e506/pog-tweaks.png)
 
-<p align=center> A list of tweaks for Windows, Linux and macOS, which can be used to customize your system according to your liking.
+<p align=center> A list of tweaks and programs for Windows, MacOS and Linux which can be used to tweak or rice your system according to your liking.
 
 
 ## 1. Spicetify
@@ -8,80 +8,80 @@
 ![image](https://user-images.githubusercontent.com/78948152/131786096-1cb5532e-c4d7-44d4-a0f1-2771b5bc473a.png)
 
 
-**Supported:** Windows, macOS, Linux
+**Supported Platforms:** Windows, macOS, Linux
 
-**What is it?** Command-line tool to customize new Spotify client (v1.1.58 or later) using CSS, custom styles, and JavaScript features. 
+**Description** Command-line tool to customize new Spotify client (v1.1.58 or later) using CSS, custom styles, and JavaScript features. 
 
-**Installation:** Check [khanhas/spicetify-cli](https://github.com/khanhas/spicetify-cli) on GitHub.
+**Installation:** See [here](https://github.com/khanhas/spicetify-cli/wiki/Installation)
 
 
 ## 2. Winaero Tweaker
 
 ![image](https://user-images.githubusercontent.com/78948152/131786276-02d498db-be31-4859-bc67-7ff8f86f62bb.png)
 
-**Supported:** Windows
+**Supported Platforms:** Windows
 
-**What is it?** It is an all-in-one app from Winaero. It includes almost all tweaks released by Winaero along with new options.
+**Description** It is an all-in-one app from Winaero. It includes almost all tweaks released by Winaero along with new options.
 
-**Installation:** [Click here](https://winaero.com/downloads/winaerotweaker.zip) to use the direct download link provided by Winaero.
+**Installation:** [Click here](https://winaero.com/downloads/winaerotweaker.zip)
 
 ## 3. Lively
 
 ![image](https://user-images.githubusercontent.com/78948152/131786941-95b64d30-1fcf-4f21-9053-a5c2b299e58b.png)
 
-**Supported:** Windows
+**Supported Platforms:** Windows
 
-**What is it?** Free and open-source software that allows users to set animated desktop wallpapers and screensavers.
+**Description** Free and open-source software that allows users to set animated desktop wallpapers and screensavers.
 
-**Installation:** [Visit the author's repo](https://github.com/rocksdanister/lively)
+**Installation:** Download it from the [repo](https://github.com/rocksdanister/lively)
 
 ## 4. Oh-My-Posh
 
-**Supported:** macOS, Windows, Linux
+**Supported Platforms:** macOS, Windows, Linux
 
-**What is it?** A cross platform, highly customizable and extensible prompt theme engine.
+**Description** A cross platform, highly customizable and extensible prompt theme engine.
 
-**Installation:** [View JanDeDobbeleer's GitHub repo](https://github.com/JanDeDobbeleer/oh-my-posh)
+**Installation:** See [here](https://ohmyposh.dev/docs/pwsh)
 
 ## 5. Rainmeter
 
 ![image](https://user-images.githubusercontent.com/78948152/131816842-80593f47-4e5d-4f7f-bfaa-f9a47707a97d.png)
 
-**Supported:** Windows
+**Supported Platforms:** Windows
 
-**What is it?** Rainmeter allows you to display customizable skins on your desktop, from hardware usage meters to fully functional audio visualizers.
+**Description** Rainmeter allows you to display customizable skins on your desktop, from hardware usage meters to fully functional audio visualizers.
 
-**Installation:** [Check it out on GitHub](https://github.com/rainmeter/rainmeter)
+**Installation:** Download it [here](https://rainmeter.net)
 
 ## 6. Notepads
 
 ![image](https://github.com/JasonStein/Notepads/raw/master/ScreenShots/1.png?raw=true)
 
-**Supported:** Windows
+**Supported Platforms:** Windows
 
-**What is it?** Modern and lightweight alternative to Notepad.
+**Description** Modern and lightweight alternative to Notepad.
 
-**Installation:** [Microsoft Store](https://www.microsoft.com/en-us/p/notepads-app/9nhl4nsc67wm), [GitHub](https://github.com/JasonStein/Notepads)
+**Installation:** Download it from the [Microsoft Store](https://www.microsoft.com/en-us/p/notepads-app/9nhl4nsc67wm) or from [GitHub](https://github.com/JasonStein/Notepads)
 
 ## 7. Tabby
 
 ![image](https://raw.githubusercontent.com/Eugeny/tabby/master/docs/readme.png)
 
-**Supported:** MacOS, Linux, Windows
+**Supported Platforms:** Windows, MacOS, Linux
 
-**What is it?** A terminal for a more modern age.
+**Description** A terminal for a more modern age.
 
-**Installation:** [GitHub repo](https://github.com/Eugeny/tabby)
+**Installation:** Download it from [here](https://github.com/Eugeny/tabby/releases)
 
 ## 8. Picom
 
  ![image](https://user-images.githubusercontent.com/13266308/74752444-acde8100-523c-11ea-815f-32a9d2738929.png)
 
- **Supported:** Linux
+ **Supported Platforms:** Linux
 
- **What is it?** Picom is a compositor for X, and a fork of Compton
+ **Description** Picom is a compositor for X, and a fork of Compton
 
- **Installation:** [Click here](https://github.com/yshui/picom) to visit the official GitHub repository.
+ **Installation:** Visit the [GitHub Repo](https://github.com/yshui/picom) and follow the instructions.
 
 ## 9. SecureUxTheme
  
@@ -89,32 +89,21 @@
 
  *Theme used: [Better Aero by niivu](https://www.deviantart.com/niivu/art/Better-Aero-890432532)*
  
- **Supported:** Windows
+ **Supported Platforms:** Windows
 
- **What is it?** A secure boot compatible in-memory UxTheme patcher.
+ **Description** A secure boot compatible in-memory UxTheme patcher.
  
- **Installation:** Access [namazso's GitHub repo](https://github.com/namazso/SecureUxTheme) to download or compile the app.
-
+ **Installation:** Download or compile the app from the [repo](https://github.com/namazso/SecureUxTheme).
+ 
 ## 10. AltDrag
 
 ![image](https://cdn.discordapp.com/attachments/841674788254777374/883029761151098900/unknown.png)
 
-**Supported:** Windows
+**Supported Platforms:** Windows
 
-**What is it?** Easily drag windows when pressing the alt key
+**Description** Easily drag windows when pressing the alt key
 
-**Installation:** [Site](https://stefansundin.github.io/altdrag/)
-
-## 11. T-Clock Redux
-
-![image](https://cloud.githubusercontent.com/assets/1467733/4608572/71b48156-5283-11e4-960f-b0415b5b7cec.png)
-
-**Supported:** Windows 10 and lower
-
-**What is it?** Highly configurable Windows taskbar clock
-
-**Installation:** [Site](https://github.com/White-Tiger/T-Clock)
-
+**Installation:** Download it from the [website](https://stefansundin.github.io/altdrag/)
 
 
 ## Contributing
@@ -125,9 +114,9 @@ Do you want to contribute to the repository? Just use this format and insert wha
 
 [Paste a relevant image of the tweak]
 
-**Supported:** {names of supported platforms}
+**Supported Platforms:** {names of supported platforms}
 
-**What is it?** {describe the tweak or the program}
+**Description** {describe the tweak or the program}
 
 **Installation:** {link the original source of the program/tweak}
 
