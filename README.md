@@ -1,8 +1,6 @@
-![My Post-4](https://user-images.githubusercontent.com/78948152/131820319-23e742ba-a524-45e7-a051-a1f6645013e7.png)
+# POG-Tweaks
+A list of tweaks for Windows, Linux and macOS, which can be used to customize your system according to your liking.
 
-
-<p align=center> POG-Tweaks
-<p align=center> A list of tweaks for Windows, Linux and macOS, which can be used to customize your system according to your liking.
 Remember, these tweaks have not been invented by me, but I've surfed the web for a long time to collect these tweaks.
 
 ## 1. Spicetify
@@ -57,13 +55,24 @@ Remember, these tweaks have not been invented by me, but I've surfed the web for
 
 ## 6. Notepads
 
- ![image](https://github.com/JasonStein/Notepads/raw/master/ScreenShots/1.png?raw=true)
+![image](https://github.com/JasonStein/Notepads/raw/master/ScreenShots/1.png?raw=true)
 
- **Supported:** Windows
+**Supported:** Windows
 
- **What is it?** Modern lightweight alternative to Notepad.
+**What is it?** Modern lightweight alternative to Notepad.
 
- **Installation:** [Microsoft store](https://www.microsoft.com/en-us/p/notepads-app/9nhl4nsc67wm) [Github Repo](https://github.com/JasonStein/Notepads)
+**Installation:** [Microsoft store](https://www.microsoft.com/en-us/p/notepads-app/9nhl4nsc67wm), [Github Repo](https://github.com/JasonStein/Notepads)
+
+## 7. Tabby
+
+![image](https://raw.githubusercontent.com/Eugeny/tabby/master/docs/readme.png)
+
+**Supported:** MacOS, Linux, Windows
+
+**What is it?** A terminal for a more modern age.
+
+**Installation:** [Github Repo](https://github.com/Eugeny/tabby)
+
 
 ## Contribute:
 
