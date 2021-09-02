@@ -22,9 +22,9 @@ Remember, these tweaks have not been invented by me, but I've surfed the web for
 
 **Supported:** Windows
 
-**What is it?** It is an all-in-one app from Winaero. It will include almost all apps released by Winaero along with new tweaks and options.
+**What is it?** It is an all-in-one app from Winaero. It includes almost all tweaks released by Winaero along with new options.
 
-**Installation:** [Click here](https://winaero.com/downloads/winaerotweaker.zip) to use the direct download link provided by WinAero.
+**Installation:** [Click here](https://winaero.com/downloads/winaerotweaker.zip) to use the direct download link provided by Winaero.
 
 ## 3. Lively
 
@@ -34,7 +34,7 @@ Remember, these tweaks have not been invented by me, but I've surfed the web for
 
 **What is it?** Free and open-source software that allows users to set animated desktop wallpapers and screensavers.
 
-**Installation** [Visit the Author's repository](https://github.com/rocksdanister/lively)
+**Installation** [Visit the author's repo](https://github.com/rocksdanister/lively)
 
 ## 4. Oh-My-Posh
 
@@ -42,7 +42,7 @@ Remember, these tweaks have not been invented by me, but I've surfed the web for
 
 **What is it?** A cross platform, highly customizable and extensible prompt theme engine.
 
-**Usage:** [View JanDeDobbeleer's GitHub Repo](https://github.com/JanDeDobbeleer/oh-my-posh)
+**Usage:** [View JanDeDobbeleer's GitHub repo](https://github.com/JanDeDobbeleer/oh-my-posh)
 
 ## 5. Rainmeter
 
@@ -52,7 +52,7 @@ Remember, these tweaks have not been invented by me, but I've surfed the web for
 
 **What is it?** Rainmeter allows you to display customizable skins on your desktop, from hardware usage meters to fully functional audio visualizers.
 
-**Installation:** [Check out the official repo](https://github.com/rainmeter/rainmeter)
+**Installation:** [Check it out on GitHub](https://github.com/rainmeter/rainmeter)
 
 ## 6. Notepads
 
@@ -60,9 +60,9 @@ Remember, these tweaks have not been invented by me, but I've surfed the web for
 
 **Supported:** Windows
 
-**What is it?** Modern lightweight alternative to Notepad.
+**What is it?** Modern and lightweight alternative to Notepad.
 
-**Installation:** [Microsoft store](https://www.microsoft.com/en-us/p/notepads-app/9nhl4nsc67wm), [Github Repo](https://github.com/JasonStein/Notepads)
+**Installation:** [Microsoft Store](https://www.microsoft.com/en-us/p/notepads-app/9nhl4nsc67wm), [Github](https://github.com/JasonStein/Notepads)
 
 ## 7. Tabby
 
@@ -72,7 +72,7 @@ Remember, these tweaks have not been invented by me, but I've surfed the web for
 
 **What is it?** A terminal for a more modern age.
 
-**Installation:** [Github Repo](https://github.com/Eugeny/tabby)
+**Installation:** [Github repo](https://github.com/Eugeny/tabby)
 
 ## 8. Picom
 
@@ -82,12 +82,18 @@ Remember, these tweaks have not been invented by me, but I've surfed the web for
 
  **What is it?** Picom is a compositor for X, and a fork of Compton
 
- **Installation:** [Click here](https://github.com/yshui/picom) to visit the official github repository.
+ **Installation:** [Click here](https://github.com/yshui/picom) to visit the official GitHub repository.
 
+## 9. SecureUxTheme
+ 
+ **Supported:** Windows
 
-## Contribute:
+ **What is it?** A secure boot compatible in-memory UxTheme patcher.
+ 
+ **Installation:** Access [namazso's GitHub repo](https://github.com/namazso/SecureUxTheme) to download or compile the app.
 
-Do you wanna contribute to the repo? Well, just use this format and insert what you want, a line after the latest entry.
+## Contributing
+Do you want to contribute to the repository? Well, just use this format and insert what you want, a line after the latest entry.
 
 ```
 ## {Sl. No} Name of tweak
