@@ -61,7 +61,7 @@ Remember, these tweaks have not been invented by me, but I've surfed the web for
 
 **What is it?** Modern lightweight alternative to Notepad.
 
-**Installation:** [Microsoft store](https://www.microsoft.com/en-us/p/notepads-app/9nhl4nsc67wm) [Github Repo](https://github.com/JasonStein/Notepads)
+**Installation:** [Microsoft store](https://www.microsoft.com/en-us/p/notepads-app/9nhl4nsc67wm), [Github Repo](https://github.com/JasonStein/Notepads)
 
 
 
