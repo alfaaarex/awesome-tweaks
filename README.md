@@ -1,4 +1,4 @@
-![My Post-4](https://raw.githubusercontent.com/dlphin/dlphin/main/image.png)
+![My Post-4](https://github.com/dlphin/dlphin/blob/main/image.png)
 
 
 <p align=center> A list of tweaks for Windows, Linux and macOS, which can be used to customize your system according to your liking.
