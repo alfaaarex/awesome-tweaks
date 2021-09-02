@@ -86,6 +86,8 @@ Remember, these tweaks have not been invented by me, but I've surfed the web for
 
 ## 9. SecureUxTheme
  
+ ![image](https://github.com/namazso/SecureUxTheme/raw/master/resources/screenshot_themetool.png)
+ 
  **Supported:** Windows
 
  **What is it?** A secure boot compatible in-memory UxTheme patcher.
