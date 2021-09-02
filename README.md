@@ -53,6 +53,17 @@ Remember, these tweaks have not been invented by me, but I've surfed the web for
 
 **Installation:** [Check out the official repo](https://github.com/rainmeter/rainmeter)
 
+## 6. Notepads
+
+![image](https://github.com/JasonStein/Notepads/raw/master/ScreenShots/1.png?raw=true)
+
+**Supported:** Windows
+
+**What is it?** Modern lightweight alternative to Notepad.
+
+**Installation:** [Microsoft store](https://www.microsoft.com/en-us/p/notepads-app/9nhl4nsc67wm) [Github Repo](https://github.com/JasonStein/Notepads)
+
+
 
 
 ## Contribute:
