@@ -34,7 +34,7 @@ Remember, these tweaks have not been invented by me, but I've surfed the web for
 
 **What is it?** Free and open-source software that allows users to set animated desktop wallpapers and screensavers.
 
-**Installation** [Visit the author's repo](https://github.com/rocksdanister/lively)
+**Installation:** [Visit the author's repo](https://github.com/rocksdanister/lively)
 
 ## 4. Oh-My-Posh
 
@@ -42,7 +42,7 @@ Remember, these tweaks have not been invented by me, but I've surfed the web for
 
 **What is it?** A cross platform, highly customizable and extensible prompt theme engine.
 
-**Usage:** [View JanDeDobbeleer's GitHub repo](https://github.com/JanDeDobbeleer/oh-my-posh)
+**Installation:** [View JanDeDobbeleer's GitHub repo](https://github.com/JanDeDobbeleer/oh-my-posh)
 
 ## 5. Rainmeter
 
