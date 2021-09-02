@@ -62,7 +62,7 @@ Remember, these tweaks have not been invented by me, but I've surfed the web for
 
 **What is it?** Modern and lightweight alternative to Notepad.
 
-**Installation:** [Microsoft Store](https://www.microsoft.com/en-us/p/notepads-app/9nhl4nsc67wm), [Github](https://github.com/JasonStein/Notepads)
+**Installation:** [Microsoft Store](https://www.microsoft.com/en-us/p/notepads-app/9nhl4nsc67wm), [GitHub](https://github.com/JasonStein/Notepads)
 
 ## 7. Tabby
 
@@ -72,7 +72,7 @@ Remember, these tweaks have not been invented by me, but I've surfed the web for
 
 **What is it?** A terminal for a more modern age.
 
-**Installation:** [Github repo](https://github.com/Eugeny/tabby)
+**Installation:** [GitHub repo](https://github.com/Eugeny/tabby)
 
 ## 8. Picom
 
@@ -93,7 +93,7 @@ Remember, these tweaks have not been invented by me, but I've surfed the web for
  **Installation:** Access [namazso's GitHub repo](https://github.com/namazso/SecureUxTheme) to download or compile the app.
 
 ## Contributing
-Do you want to contribute to the repository? Well, just use this format and insert what you want, a line after the latest entry.
+Do you want to contribute to the repository? Just use this format and insert what you want, a line after the latest entry.
 
 ```
 ## {Sl. No} Name of tweak
