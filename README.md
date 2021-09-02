@@ -105,6 +105,14 @@
 
 **Installation:** Download it from the [website](https://stefansundin.github.io/altdrag/)
 
+## 11. T-Clock Redux
+
+![image](https://cloud.githubusercontent.com/assets/1467733/4608572/71b48156-5283-11e4-960f-b0415b5b7cec.png)
+
+**Supported Platforms:** Windows 10 and lower
+
+**What is it?** Highly configurable Windows taskbar clock
+
 
 ## Contributing
 Do you want to contribute to the repository? Just use this format and insert what you want, a line after the latest entry.
