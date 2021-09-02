@@ -16,7 +16,7 @@ Remember, these tweaks have not been invented by me, but I've surfed the web for
 **Installation:** Check [khanhas/spicetify-cli](https://github.com/khanhas/spicetify-cli) on GitHub.
 
 
-## 2. WinAero Tweaker
+## 2. Winaero Tweaker
 
 ![image](https://user-images.githubusercontent.com/78948152/131786276-02d498db-be31-4859-bc67-7ff8f86f62bb.png)
 
