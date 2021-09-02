@@ -1,6 +1,8 @@
-# POG-Tweaks
-A list of tweaks for Windows, Linux and macOS, which can be used to customize your system according to your liking.
+![My Post-4](https://user-images.githubusercontent.com/78948152/131820319-23e742ba-a524-45e7-a051-a1f6645013e7.png)
 
+
+<p align=center> POG-Tweaks
+<p align=center> A list of tweaks for Windows, Linux and macOS, which can be used to customize your system according to your liking.
 Remember, these tweaks have not been invented by me, but I've surfed the web for a long time to collect these tweaks.
 
 ## 1. Spicetify
@@ -52,17 +54,6 @@ Remember, these tweaks have not been invented by me, but I've surfed the web for
 **What is it?** Rainmeter allows you to display customizable skins on your desktop, from hardware usage meters to fully functional audio visualizers.
 
 **Installation:** [Check out the official repo](https://github.com/rainmeter/rainmeter)
-
-## 6. Notepads
-
-![image](https://github.com/JasonStein/Notepads/raw/master/ScreenShots/1.png?raw=true)
-
-**Supported:** Windows
-
-**What is it?** Modern lightweight alternative to Notepad.
-
-**Installation:** [Microsoft store](https://www.microsoft.com/en-us/p/notepads-app/9nhl4nsc67wm), [Github Repo](https://github.com/JasonStein/Notepads)
-
 
 
 
