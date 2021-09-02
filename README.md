@@ -3,6 +3,7 @@
 
 <p align=center> A list of tweaks for Windows, Linux and macOS, which can be used to customize your system according to your liking.
 
+[![Discord](https://discordapp.com/api/guilds/882949688049930270/widget.png)](https://discord.gg/WnesggVsKW)
 
 ## 1. Spicetify
 
