@@ -1,6 +1,7 @@
-# POG-Tweaks
-A list of tweaks for Windows, Linux and macOS, which can be used to customize your system according to your liking.
+![My Post-4](https://user-images.githubusercontent.com/78948152/131821680-6bfe41bc-5c6c-4ca3-ba49-916f8ee262dc.png)
 
+<p align=center> POG Tweaks
+<p align=center> A list of tweaks for Windows, Linux and macOS, which can be used to customize your system according to your liking.
 Remember, these tweaks have not been invented by me, but I've surfed the web for a long time to collect these tweaks.
 
 ## 1. Spicetify
