@@ -206,6 +206,16 @@
 
 **Installation:** Check the main [repository](https://github.com/josephbeattie/Fluent-Media-Player-Dev)
 
+ ## 21. SNWE
+
+![image](https://user-images.githubusercontent.com/78948152/131977919-d325003d-1fd0-422a-9543-89165dd4e457.png)
+
+**Supported Platforms:** macOS
+
+**Description:** An extensible, customisable menubar replacement for macOS.
+
+**Installation:** Visit the [official repository](https://github.com/blahsd/snwe)
+
 ## Contributing
 Do you want to contribute to the repository? Just use this format and insert what you want, a line after the latest entry.
 
