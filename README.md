@@ -86,7 +86,7 @@
 
 ## 9. SecureUxTheme
  
- ![image](image deleted while i sort things out with image names e.g.)
+ ![image](https://raw.githubusercontent.com/dlphin/dolphin/main/Untitled.png)
 
  *Theme used: [Better Aero by niivu](https://www.deviantart.com/niivu/art/Better-Aero-890432532)*
  
