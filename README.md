@@ -158,7 +158,7 @@
 
 ## 16. TaskbarX
 
-![image](https://user-images.githubusercontent.com/88824061/131970778-80a64dab-856b-4946-8270-80aaa1ad9a9e.png)
+![image](https://camo.githubusercontent.com/0280521cbf66110b0c97c41835bcbb4221303e81d412edd8e708292ead0d2b2d/68747470733a2f2f6368726973616e647269657373656e2e6e6c2f696d616765732f466c61744d6f636b322e706e67)
 
 **Supported Platforms:** Windows 10
 
