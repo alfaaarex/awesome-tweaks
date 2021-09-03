@@ -185,6 +185,16 @@
 **Description:** Microsoft PowerToys is a set of utilities for power users to tune and streamline their Windows experience for greater productivity.
 
 **Installation:** Visit the [official repository](https://github.com/microsoft/PowerToys)
+
+ ## 19. Files
+
+![image](https://github.com/files-community/Files/raw/main/Files/Assets/FilesHome.png)
+
+**Supported Platforms:** Windows 10 & Up
+
+**Description:** Files is a file manager which leverages the latest features of the Windows platform including Fluent Design, seamless updates, and APIs which enable the performance and lifecycle behavior that users expect.
+
+**Installation:** Visit the [official repository](https://github.com/files-community/Files) or Microsoft Store [link](https://www.microsoft.com/store/apps/9NGHP3DX8HDX)
  
 ## Contributing
 Do you want to contribute to the repository? Just use this format and insert what you want, a line after the latest entry.
