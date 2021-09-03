@@ -236,6 +236,16 @@
 
 **Installation:** check out on [github](https://github.com/d2dyno1/ClipboardCanvas)
 
+ ## 24. Hyper-bar
+
+![image](https://user-images.githubusercontent.com/78948152/131980286-d2ac3b08-29c9-4697-ba0f-c38ed034122a.png)
+
+**Supported Platforms:** Windows
+
+**Description:** This is a taskbar/launcher build with Electron.
+
+**Installation:** Check out on [GitHub](https://github.com/nodgear/hyperbar)
+
 ## Contributing
 Do you want to contribute to the repository? Just use this format and insert what you want, a line after the latest entry.
 
