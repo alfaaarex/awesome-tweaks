@@ -203,8 +203,7 @@
 
 **Description:** Rise Media Player brings all of your media to a whole new level. If it's videos, the music stored on your devices, discs or even your favourite streaming services.
 
-**Installation:** Since the project is in it's early phase of development you will need to build it via Visual Studio [repository](https://github.com/josephbeattie/Fluent-Media-Player-Dev)
-
+**Installation:** Since [the project](https://github.com/josephbeattie/Fluent-Media-Player-Dev) is in it's early phase of development you will need to build it via Visual Studio
  ## 21. SNWE
 
 ![image](https://user-images.githubusercontent.com/78948152/131977919-d325003d-1fd0-422a-9543-89165dd4e457.png)
