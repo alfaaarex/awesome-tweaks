@@ -112,9 +112,9 @@
 
  **Supported Platforms:** Windows 10 and lower
 
- **Description:** Highly configurable Windows taskbar clock
+ **Description:** Highly configurable Windows taskbar clock (Program is not maintained anymore, as it seems)
 
- **Installation:** Visit the [repo](https://github.com/White-Tiger/T-Clock)
+ **Installation:** See the latest release [here](https://github.com/White-Tiger/T-Clock/releases/tag/v2.4.4%23492-rc)
 
 ## 12. BarTender
 
@@ -134,8 +134,8 @@
 
  **Description:** A lightweight utility that makes the Windows taskbar translucent/transparent.
 
- **Instalation:** [GitHub](https://github.com/TranslucentTB/TranslucentTB), [Microsoft Store](https://www.microsoft.com/ro-ro/p/translucenttb/9pf4kz2vn4w9?activetab=pivot:overviewtab)
-
+ **Instalation:** Install it via the [Microsoft Store](https://www.microsoft.com/ro-ro/p/translucenttb/9pf4kz2vn4w9?activetab=pivot:overviewtab), or via [GitHub](https://github.com/TranslucentTB/TranslucentTB)
+ 
 ## 14. Windows Terminal
 
  ![image](https://user-images.githubusercontent.com/88824061/131969420-057fc311-4388-4b9c-98a1-e07b8f09bbf6.png)
@@ -144,7 +144,7 @@
 
  **Description:** A modern, fast, efficient, powerful, and productive terminal application.
 
- **Installation**: Windows 10 ([Microsoft Store](https://www.microsoft.com/store/productId/9N0DX20HK701), [GitHub](https://github.com/microsoft/terminal#via-github), [Winget](https://github.com/microsoft/terminal#via-windows-package-manager-cli-aka-winget), [Chocolatey](https://github.com/microsoft/terminal#via-chocolatey-unofficial), [Scoop](https://github.com/microsoft/terminal#via-scoop-unofficial)), preinstalled on Windows 11
+ **Installation**: Install it via the ([Microsoft Store](https://www.microsoft.com/store/productId/9N0DX20HK701), [GitHub](https://github.com/microsoft/terminal#via-github), [WinGet](https://github.com/microsoft/terminal#via-windows-package-manager-cli-aka-winget), [Chocolatey](https://github.com/microsoft/terminal#via-chocolatey-unofficial), or [Scoop](https://github.com/microsoft/terminal#via-scoop-unofficial)
  
  ## 15. MyDockFinder
 
@@ -154,7 +154,7 @@
 
 **Description:** It's a program which allows you to replicate the macOS 11 Dock and Finderbar, perfectly, on Windows.
 
-**Installation:** Visit the main [repository](https://github.com/mydockfinder/mydockfinder-for-Win10-Win11)
+**Installation:** Download it via the [releases page of the repo](https://github.com/mydockfinder/mydockfinder-for-Win10-Win11/releases)
 
 ## 16. TaskbarX
 
@@ -164,7 +164,7 @@
 
 **Description:** Center Windows taskbar icons with a variety of animations and options.
 
-**Installation:** [Website](https://chrisandriessen.nl/taskbarx), [Microsoft Store (Paid)](https://www.microsoft.com/store/productid/9PCMZ6BXK8GH)
+**Installation:** Download it via the [website](https://chrisandriessen.nl/taskbarx) or the [Microsoft Store (Paid)](https://www.microsoft.com/store/productid/9PCMZ6BXK8GH)
 
 ## 17. Start11
 
@@ -174,7 +174,7 @@
 
  **Description:** Restore the Classic Start Menu in Windows 10/11.
 
- **Installation:** [Website](https://www.stardock.com/products/start11/) (paid)
+ **Installation:** Download it via the [website](https://www.stardock.com/products/start11/) (Paid)
 
  ## 18. PowerToys
 
@@ -184,7 +184,7 @@
 
 **Description:** Microsoft PowerToys is a set of utilities for power users to tune and streamline their Windows experience for greater productivity.
 
-**Installation:** Visit the [official repository](https://github.com/microsoft/PowerToys)
+**Installation:** Download the latest release from the [official repository](https://github.com/microsoft/PowerToys/releases)
 
  ## 19. Files
 
@@ -194,7 +194,7 @@
 
 **Description:** Files is a file manager which leverages the latest features of the Windows platform including Fluent Design, seamless updates, and APIs which enable the performance and lifecycle behavior that users expect.
 
-**Installation:** Visit the [official repository](https://github.com/files-community/Files) or Microsoft Store [link](https://www.microsoft.com/store/apps/9NGHP3DX8HDX)
+**Installation:** Visit the [official repository](https://github.com/files-community/Files) or simply insall it via Microsoft Store [link](https://www.microsoft.com/store/apps/9NGHP3DX8HDX)
 
  ## 20. Rise Media Player
 
@@ -204,7 +204,7 @@
 
 **Description:** Rise Media Player brings all of your media to a whole new level even If it's videos, the music stored on your devices, discs or even your favourite streaming services.
 
-**Installation:** Check the main [repository](https://github.com/josephbeattie/Fluent-Media-Player-Dev)
+**Installation:** Since the project is in the alpha phase you will need to build it via Visual Studio [repository](https://github.com/josephbeattie/Fluent-Media-Player-Dev)
 
  ## 21. SNWE
 
@@ -220,11 +220,11 @@
 
 ![image](https://user-images.githubusercontent.com/78948152/131978644-50011870-d16f-4c1c-afe3-b797b5e51527.png)
 
-**Supported Platforms:** Gnome Linux
+**Supported Platforms:** Linux (GNOME)
 
 **Description:** A dock for the GNOME Shell.
 
-**Installation:** On [Gnome Extensions](https://extensions.gnome.org/extension/307/dash-to-dock) or [GitHub](https://github.com/micheleg/dash-to-dock)
+**Installation:** Install it via [GNOME Extensions](https://extensions.gnome.org/extension/307/dash-to-dock)
 
  ## 23. Clipboard Canvas
 
@@ -234,17 +234,17 @@
 
 **Description:** Clipboard Canvas gives users an enhanced clipboard experience. Clipboard Canvas enables you to paste content worry free increasing your productivity.
 
-**Installation:** check out on [github](https://github.com/d2dyno1/ClipboardCanvas)
+**Installation:** Download it from the [Microsoft Store](https://www.microsoft.com/en-us/p/clipboard-canvas/9nn2nzg8rltb#activetab=pivot:overviewtab) or [GitHub](https://github.com/d2dyno1/ClipboardCanvas/releases)
 
- ## 24. Hyper-bar
+ ## 24. Hyper
 
 ![image](https://user-images.githubusercontent.com/78948152/131980286-d2ac3b08-29c9-4697-ba0f-c38ed034122a.png)
 
-**Supported Platforms:** Windows
+**Supported Platforms:** Windows (MacOS and Linux soon)
 
 **Description:** This is a taskbar/launcher build with Electron.
 
-**Installation:** Check out on [GitHub](https://github.com/nodgear/hyperbar)
+**Installation:** Currently hyper is pretty complicated to install, you have to switch branches, run commands in the terminal, so we don't recommend installing hyper until the author cleans everything up
 
 ## Contributing
 Do you want to contribute to the repository? Just use this format and insert what you want, a line after the latest entry.
