@@ -155,6 +155,16 @@
 **Description:** It's a program which allows you to replicate the macOS 11 Dock and Finderbar, perfectly, on Windows.
 
 **Installation:** Visit the main [repository](https://github.com/mydockfinder/mydockfinder-for-Win10-Win11)
+
+## 16. TaskbarX
+
+![image](https://user-images.githubusercontent.com/88824061/131970778-80a64dab-856b-4946-8270-80aaa1ad9a9e.png)
+
+**Supported Platforms:** Windows 10
+
+**Description:** Center Windows taskbar icons with a variety of animations and options.
+
+**Installation:** [Website](https://chrisandriessen.nl/taskbarx), [Microsoft Store (Paid)](https://www.microsoft.com/store/productid/9PCMZ6BXK8GH)
  
 ## Contributing
 Do you want to contribute to the repository? Just use this format and insert what you want, a line after the latest entry.
