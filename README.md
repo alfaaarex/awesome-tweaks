@@ -244,6 +244,16 @@
 
 **Installation:** Currently hyper is complicated to install. We don't recommend installing hyper. [Want to install anyway?](https://github.com/hyperts/Hyper)
 
+## 25. Taskbar Groups
+
+![image](https://user-images.githubusercontent.com/88824061/132024424-d95ee8ce-78ba-4192-bab9-72dfd04b702e.png)
+
+**Supported Platforms:** Windows
+
+**Description:** Lightweight utility for organizing the taskbar through groups.
+
+**Installation**: Visit the [releases](https://github.com/tjackenpacken/taskbar-groups/releases/tag/v0.2.0.0)
+
 ## Contributing
 Do you want to contribute to the repository? Just use this format and insert what you want, a line after the latest entry.
 
