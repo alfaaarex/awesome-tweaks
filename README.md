@@ -34,7 +34,7 @@
 
 **Description:** Free and open-source software that allows users to set animated desktop wallpapers and screensavers.
 
-**Installation:** Download it from the [repo](https://github.com/rocksdanister/lively)
+**Installation:** [Releases](https://github.com/rocksdanister/lively/releases)
 
 ## 4. Oh-My-Posh
 
@@ -42,7 +42,7 @@
 
 **Description:** A cross platform, highly customizable and extensible prompt theme engine.
 
-**Installation:** See [here](https://ohmyposh.dev/docs/pwsh)
+**Installation:** See [the site](https://ohmyposh.dev/docs/pwsh)
 
 ## 5. Rainmeter
 
