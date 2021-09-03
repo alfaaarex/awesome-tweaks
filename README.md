@@ -165,19 +165,18 @@
 **Description:** Center Windows taskbar icons with a variety of animations and options.
 
 **Installation:** [Website](https://chrisandriessen.nl/taskbarx), [Microsoft Store (Paid)](https://www.microsoft.com/store/productid/9PCMZ6BXK8GH)
+
+ ## 18. PowerToys
+
+![image](https://user-images.githubusercontent.com/78948152/131972002-f5397dab-6611-4741-af27-0e33492babd2.png)
+
+**Supported Platforms:** Windows
+
+**Description:** Microsoft PowerToys is a set of utilities for power users to tune and streamline their Windows experience for greater productivity.
+
+**Installation:** Visit the [official repository](https://github.com/microsoft/PowerToys)
  
-## 17. Start11
-
-![image](https://user-images.githubusercontent.com/88824061/131972031-c8adba55-e548-43a6-9a6e-ccfbd2ecd09a.png)
-
-**Supported Platforms:** Windows 10+
-
-**Description:** Restore the Classic Start Menu in Windows 10/11.
-
-**Installation:** [Website](https://www.stardock.com/products/start11/)
-
- 
- ## Contributing
+## Contributing
 Do you want to contribute to the repository? Just use this format and insert what you want, a line after the latest entry.
 
 ```
