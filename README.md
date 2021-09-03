@@ -146,6 +146,16 @@
 
  **Installation**: Windows 10 ([Microsoft Store](https://www.microsoft.com/store/productId/9N0DX20HK701), [GitHub](https://github.com/microsoft/terminal#via-github), [Winget](https://github.com/microsoft/terminal#via-windows-package-manager-cli-aka-winget), [Chocolatey](https://github.com/microsoft/terminal#via-chocolatey-unofficial), [Scoop](https://github.com/microsoft/terminal#via-scoop-unofficial)), preinstalled on Windows 11
  
+ ## 15. MyDockFinder
+
+![image](https://user-images.githubusercontent.com/78948152/131970344-8c50c0b6-e68a-4b44-9adb-ab2bdd718522.png)
+
+**Supported Platforms:** Windows
+
+**Description:** It's a program which allows you to replicate the macOS 11 Dock and Finderbar, perfectly, on Windows.
+
+**Installation:** Visit the main [repository](https://github.com/mydockfinder/mydockfinder-for-Win10-Win11)
+ 
 ## Contributing
 Do you want to contribute to the repository? Just use this format and insert what you want, a line after the latest entry.
 
