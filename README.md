@@ -240,9 +240,9 @@
 
 **Supported Platforms:** Windows (MacOS and Linux soon)
 
-**Description:** This is a taskbar/launcher build with Electron.
+**Description:** Hyperbar is a topbar for windows built with web technology and ffi.
 
-**Installation:** Currently hyper is pretty complicated to install, you have to switch branches, run commands in the terminal, so we don't recommend installing hyper until the author cleans everything up
+**Installation:** Currently hyper is complicated to install. We don't recommend installing hyper until the author cleans everything up. [I'll do it anyway](https://github.com/hyperts/Hyper)
 
 ## Contributing
 Do you want to contribute to the repository? Just use this format and insert what you want, a line after the latest entry.
