@@ -98,43 +98,53 @@
  
 ## 10. AltDrag
 
-![image](https://cdn.discordapp.com/attachments/841674788254777374/883029761151098900/unknown.png)
+ ![image](https://cdn.discordapp.com/attachments/841674788254777374/883029761151098900/unknown.png)
 
-**Supported Platforms:** Windows
+ **Supported Platforms:** Windows
 
-**Description:** Easily drag windows when pressing the alt key
+ **Description:** Easily drag windows when pressing the alt key
 
-**Installation:** Download it from the [website](https://stefansundin.github.io/altdrag/)
+ **Installation:** Download it from the [website](https://stefansundin.github.io/altdrag/)
 
 ## 11. T-Clock Redux
 
-![image](https://cloud.githubusercontent.com/assets/1467733/4608572/71b48156-5283-11e4-960f-b0415b5b7cec.png)
+ ![image](https://cloud.githubusercontent.com/assets/1467733/4608572/71b48156-5283-11e4-960f-b0415b5b7cec.png)
 
-**Supported Platforms:** Windows 10 and lower
+ **Supported Platforms:** Windows 10 and lower
 
-**Description:** Highly configurable Windows taskbar clock
+ **Description:** Highly configurable Windows taskbar clock
 
-**Installation:** Visit the [repo](https://github.com/White-Tiger/T-Clock)
+ **Installation:** Visit the [repo](https://github.com/White-Tiger/T-Clock)
 
 ## 12. BarTender
 
-![image](https://user-images.githubusercontent.com/78948152/131941210-9c488ebd-338d-440a-a88a-45928b0d10a5.png)
+ ![image](https://user-images.githubusercontent.com/78948152/131941210-9c488ebd-338d-440a-a88a-45928b0d10a5.png)
 
-**Supported Platforms:** macOS
+ **Supported Platforms:** macOS
 
-**Description:** Bartender is an award-winning app for macOS that superpowers your menu bar, giving you total control over your menu bar items, what's displayed, and when, with menu bar items only showing when you need them. 
+ **Description:** Bartender is an award-winning app for macOS that superpowers your menu bar, giving you total control over your menu bar items, what's displayed, and when, with   menu bar items only showing when you need them. 
 
-**Installation:** View the official [website](https://www.macbartender.com)
+ **Installation:** View the official [website](https://www.macbartender.com)
 
 ## 13. TranslucentTB
  
 ![image](https://raw.githubusercontent.com/dlphin/dolphin/main/image.png)
 
-**Supported Platforms:** Windows 10+
+ **Supported Platforms:** Windows 10+
 
-**Description:** A lightweight utility that makes the Windows taskbar translucent/transparent.
+ **Description:** A lightweight utility that makes the Windows taskbar translucent/transparent.
 
-**Instalation:** [GitHub](https://github.com/TranslucentTB/TranslucentTB), [Microsoft Store](https://www.microsoft.com/ro-ro/p/translucenttb/9pf4kz2vn4w9?activetab=pivot:overviewtab)
+ **Instalation:** [GitHub](https://github.com/TranslucentTB/TranslucentTB), [Microsoft Store](https://www.microsoft.com/ro-ro/p/translucenttb/9pf4kz2vn4w9?activetab=pivot:overviewtab)
+
+## 14. Windows Terminal
+
+ ![image](https://user-images.githubusercontent.com/88824061/131969420-057fc311-4388-4b9c-98a1-e07b8f09bbf6.png)
+
+ **Supported Platforms:** Windows 10+
+
+ **Description:** A modern, fast, efficient, powerful, and productive terminal application.
+
+ **Installation**: Windows 10 ([Microsoft Store](https://www.microsoft.com/store/productId/9N0DX20HK701), [GitHub](https://github.com/microsoft/terminal#via-github), [Winget](https://github.com/microsoft/terminal#via-windows-package-manager-cli-aka-winget), [Chocolatey](https://github.com/microsoft/terminal#via-chocolatey-unofficial), [Scoop](https://github.com/microsoft/terminal#via-scoop-unofficial)), preinstalled on Windows 11
  
 ## Contributing
 Do you want to contribute to the repository? Just use this format and insert what you want, a line after the latest entry.
