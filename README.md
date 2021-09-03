@@ -115,7 +115,17 @@
 
 **Installation:** Visit the [repo](https://github.com/White-Tiger/T-Clock)
 
+## 12. BarTender
 
+![image](https://user-images.githubusercontent.com/78948152/131941210-9c488ebd-338d-440a-a88a-45928b0d10a5.png)
+
+
+**Supported Platforms:** macOS
+
+**Description:** Bartender is an award-winning app for macOS that superpowers your menu bar, giving you total control over your menu bar items, what's displayed, and when, with menu bar items only showing when you need them. 
+
+**Installation:** View the official [website](https://www.macbartender.com)
+ 
 ## Contributing
 Do you want to contribute to the repository? Just use this format and insert what you want, a line after the latest entry.
 
