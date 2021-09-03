@@ -242,7 +242,7 @@
 
 **Description:** Hyperbar is a topbar for windows built with web technology and ffi.
 
-**Installation:** Currently hyper is complicated to install. We don't recommend installing hyper until the author cleans everything up. [I'll do it anyway](https://github.com/hyperts/Hyper)
+**Installation:** Currently hyper is complicated to install. We don't recommend installing hyper. [Want to install anyway?](https://github.com/hyperts/Hyper)
 
 ## Contributing
 Do you want to contribute to the repository? Just use this format and insert what you want, a line after the latest entry.
