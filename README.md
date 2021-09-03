@@ -142,3 +142,4 @@ Do you want to contribute to the repository? Just use this format and insert wha
 **Installation:** {link the original source of the program/tweak}
 
 ```
+If you don't have a GitHub account, join our Discord server and see #contributing!
