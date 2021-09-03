@@ -216,6 +216,16 @@
 
 **Installation:** Visit the [official repository](https://github.com/blahsd/snwe)
 
+ ## 22. Dash-to-Dock
+
+![image](https://user-images.githubusercontent.com/78948152/131978644-50011870-d16f-4c1c-afe3-b797b5e51527.png)
+
+**Supported Platforms:** Gnome Linux
+
+**Description:** A dock for the GNOME Shell.
+
+**Installation:** On [Gnome Extensions](https://extensions.gnome.org/extension/307/dash-to-dock) or [GitHub](https://github.com/micheleg/dash-to-dock)
+ 
 ## Contributing
 Do you want to contribute to the repository? Just use this format and insert what you want, a line after the latest entry.
 
