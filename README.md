@@ -194,7 +194,7 @@
 
 **Description:** Files is a file manager which leverages the latest features of the Windows platform including Fluent Design, seamless updates, and APIs which enable the performance and lifecycle behavior that users expect.
 
-**Installation:** Visit the [official repository](https://github.com/files-community/Files) or simply insall it via Microsoft Store [link](https://www.microsoft.com/store/apps/9NGHP3DX8HDX)
+**Installation:** Visit the [official repository](https://github.com/files-community/Files) or simply insall it via the [Microsoft Store](https://www.microsoft.com/store/apps/9NGHP3DX8HDX)
 
  ## 20. Rise Media Player
 
@@ -204,7 +204,7 @@
 
 **Description:** Rise Media Player brings all of your media to a whole new level even If it's videos, the music stored on your devices, discs or even your favourite streaming services.
 
-**Installation:** Since the project is in the alpha phase you will need to build it via Visual Studio [repository](https://github.com/josephbeattie/Fluent-Media-Player-Dev)
+**Installation:** Since the project is in the early phase of development you will need to build it via Visual Studio [repository](https://github.com/josephbeattie/Fluent-Media-Player-Dev)
 
  ## 21. SNWE
 
