@@ -120,12 +120,21 @@
 
 ![image](https://user-images.githubusercontent.com/78948152/131941210-9c488ebd-338d-440a-a88a-45928b0d10a5.png)
 
-
 **Supported Platforms:** macOS
 
 **Description:** Bartender is an award-winning app for macOS that superpowers your menu bar, giving you total control over your menu bar items, what's displayed, and when, with menu bar items only showing when you need them. 
 
 **Installation:** View the official [website](https://www.macbartender.com)
+
+## 13. TranslucentTB
+ 
+![image](https://raw.githubusercontent.com/dlphin/dolphin/main/image.png)
+
+**Supported Platforms:** Windows 10+
+
+**Description:** A lightweight utility that makes the Windows taskbar translucent/transparent.
+
+**Instalation:** [GitHub](https://github.com/TranslucentTB/TranslucentTB), [Microsoft Store](https://www.microsoft.com/ro-ro/p/translucenttb/9pf4kz2vn4w9?activetab=pivot:overviewtab)
  
 ## Contributing
 Do you want to contribute to the repository? Just use this format and insert what you want, a line after the latest entry.
