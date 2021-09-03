@@ -1,6 +1,7 @@
 ![My Post-4](https://raw.githubusercontent.com/dlphin/dolphin/main/os-tweaks.png)
 
 <p align=center> A list of tweaks and programs for Windows, MacOS and Linux which can be used to tweak or rice your system according to your liking.
+ This project was formerly known as AlfarexGuy2019/os-tweaks, but has been moved to winthemers, for consistency.
 
 
 ## 1. Spicetify
