@@ -174,7 +174,7 @@
 
  **Description:** Restore the Classic Start Menu in Windows 10/11.
 
- **Installation:** [Website](https://www.stardock.com/products/start11/)
+ **Installation:** [Website](https://www.stardock.com/products/start11/) (paid)
 
  ## 18. PowerToys
 
