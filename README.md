@@ -261,4 +261,5 @@ Do you want to contribute to the repository? Just use this format and insert wha
 **Installation:** {link the original source of the program/tweak}
 
 ```
-If you don't have a GitHub account, join our Discord server and see #contributing!
+If you wanna discuss with the owners and contributors, check out the [Discord Server](https://discord.gg/wdhKQ5zrfE).
+If you need help with any of these, ask them in [winthemers](https://discord.gg/82eTY8nSFH)!
