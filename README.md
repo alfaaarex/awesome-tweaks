@@ -225,7 +225,17 @@
 **Description:** A dock for the GNOME Shell.
 
 **Installation:** On [Gnome Extensions](https://extensions.gnome.org/extension/307/dash-to-dock) or [GitHub](https://github.com/micheleg/dash-to-dock)
- 
+
+ ## 23. Clipboard Canvas
+
+![image](https://github.com/d2dyno1/ClipboardCanvas/raw/master/ClipboardCanvas/Assets/NewCanvasImage.png)
+
+**Supported Platforms:** Windows
+
+**Description:** Clipboard Canvas gives users an enhanced clipboard experience. Clipboard Canvas enables you to paste content worry free increasing your productivity.
+
+**Installation:** check out on [github](https://github.com/d2dyno1/ClipboardCanvas)
+
 ## Contributing
 Do you want to contribute to the repository? Just use this format and insert what you want, a line after the latest entry.
 
