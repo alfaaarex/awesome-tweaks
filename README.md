@@ -230,7 +230,7 @@
 
 **Supported Platforms:** Windows
 
-**Description:** Clipboard Canvas gives users an enhanced clipboard experience. Clipboard Canvas enables you to paste content worry free increasing your productivity.
+**Description:** A productivity tool for pasting and previewing multiple file types with support of virtual Reference Files.
 
 **Installation:** Download it from the [Microsoft Store](https://www.microsoft.com/en-us/p/clipboard-canvas/9nn2nzg8rltb#activetab=pivot:overviewtab) or [GitHub](https://github.com/d2dyno1/ClipboardCanvas/releases)
 
