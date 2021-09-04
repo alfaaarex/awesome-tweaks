@@ -156,6 +156,8 @@
 
 **Installation:** Download it via the [releases page of the repo](https://github.com/mydockfinder/mydockfinder-for-Win10-Win11/releases)
 
+**Well how do I even install that!?** Download it, and click on dock (or dock_64).exe. Microsoft may show you a SmartScreen warning; run anyway. To set the language to English, right click the separator in the dock, click the second last option. And after that, scroll until the second last option and click the dropdown. Select English there.
+
 ## 16. TaskbarX
 
 ![image](https://camo.githubusercontent.com/0280521cbf66110b0c97c41835bcbb4221303e81d412edd8e708292ead0d2b2d/68747470733a2f2f6368726973616e647269657373656e2e6e6c2f696d616765732f466c61744d6f636b322e706e67)
