@@ -256,6 +256,16 @@
 
 **Installation**: Visit the [releases](https://github.com/tjackenpacken/taskbar-groups/releases/tag/v0.2.0.0)
 
+ ## 26. Neofetch
+
+![image](https://user-images.githubusercontent.com/78948152/133218359-ebcf7953-7d23-4070-981e-e9bb921466f1.png)
+
+**Supported Platforms:** Windows, macOS, Linux
+
+**Description:** Neofetch is a command-line system information tool written in bash 3.2+. Neofetch displays information about your operating system, software and hardware in an aesthetic and visually pleasing way.
+
+**Installation:** See the [installation wiki](https://github.com/dylanaraps/neofetch/wiki/Installation)
+ 
 ## Contributing
 Do you want to contribute to the repository? Just use this format and insert what you want, a line after the latest entry.
 
