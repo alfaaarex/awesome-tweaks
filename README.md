@@ -30,6 +30,8 @@
 **Installation:** [Releases](https://github.com/rocksdanister/lively/releases)
 
 ## 4. Oh-My-Posh
+ 
+![image](https://ohmyposh.dev/img/hero.png) 
 
 **Description:** A cross platform, highly customizable and extensible prompt theme engine.
 
