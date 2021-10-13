@@ -63,9 +63,7 @@
 
 ## 8. SecureUxTheme
  
- ![image](https://raw.githubusercontent.com/dlphin/dolphin/main/Untitled.png)
-
- *Theme used: [Better Aero by niivu](https://www.deviantart.com/niivu/art/Better-Aero-890432532)*
+ ![image](https://raw.githubusercontent.com/namazso/SecureUxTheme/master/resources/screenshot_themetool.png)
 
  **Description:** A secure boot compatible in-memory UxTheme patcher.
  
