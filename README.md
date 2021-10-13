@@ -100,18 +100,8 @@
  **Description:** A modern, fast, efficient, powerful, and productive terminal application.
 
  **Installation**: Install it via the ([Microsoft Store](https://www.microsoft.com/store/productId/9N0DX20HK701), [GitHub](https://github.com/microsoft/terminal#via-github), [WinGet](https://github.com/microsoft/terminal#via-windows-package-manager-cli-aka-winget), [Chocolatey](https://github.com/microsoft/terminal#via-chocolatey-unofficial), or [Scoop](https://github.com/microsoft/terminal#via-scoop-unofficial)
- 
- ## 13. MyDockFinder
 
-![image](https://user-images.githubusercontent.com/78948152/131970344-8c50c0b6-e68a-4b44-9adb-ab2bdd718522.png)
-
-**Description:** It's a program which allows you to replicate the macOS 11 Dock and Finderbar, perfectly, on Windows.
-
-**Installation:** Download it via the [releases page of the repo](https://github.com/mydockfinder/mydockfinder-for-Win10-Win11/releases)
-
-**Well how do I even install that!?** Download it, and click on dock (or dock_64).exe. Microsoft may show you a SmartScreen warning; run anyway. To set the language to English, right click the separator in the dock, click the second last option. And after that, scroll until the second last option and click the dropdown. Select English there.
-
-## 14. TaskbarX
+## 13. TaskbarX
 
 ![image](https://camo.githubusercontent.com/0280521cbf66110b0c97c41835bcbb4221303e81d412edd8e708292ead0d2b2d/68747470733a2f2f6368726973616e647269657373656e2e6e6c2f696d616765732f466c61744d6f636b322e706e67)
 
@@ -119,7 +109,7 @@
 
 **Installation:** Download it via the [website](https://chrisandriessen.nl/taskbarx) or the [Microsoft Store (Paid)](https://www.microsoft.com/store/productid/9PCMZ6BXK8GH)
 
-## 15. Start11
+## 14. Start11
 
  ![image](https://user-images.githubusercontent.com/88824061/131972031-c8adba55-e548-43a6-9a6e-ccfbd2ecd09a.png)
 
@@ -127,7 +117,7 @@
 
  **Installation:** Download it via the [website](https://www.stardock.com/products/start11/) (Paid)
 
- ## 16. PowerToys
+ ## 15. PowerToys
 
 ![image](https://user-images.githubusercontent.com/78948152/131972002-f5397dab-6611-4741-af27-0e33492babd2.png)
 
@@ -135,7 +125,7 @@
 
 **Installation:** Download the latest release from the [official repository](https://github.com/microsoft/PowerToys/releases)
 
- ## 17. Files
+ ## 16. Files
 
 ![image](https://github.com/files-community/Files/raw/main/Files/Assets/FilesHome.png)
 
@@ -143,7 +133,7 @@
 
 **Installation:** Visit the [official repository](https://github.com/files-community/Files) or simply insall it via the [Microsoft Store](https://www.microsoft.com/store/apps/9NGHP3DX8HDX)
 
- ## 18. Rise Media Player
+ ## 17. Rise Media Player
 
 ![image](https://user-images.githubusercontent.com/78948152/131977070-3d312f88-3992-4ce2-98be-9a4f8dc37bdc.png)
 
@@ -151,7 +141,7 @@
 
 **Installation:** Since [the project](https://github.com/josephbeattie/Fluent-Media-Player-Dev) is in it's early phase of development you will need to build it via Visual Studio
  
- ## 19. Clipboard Canvas
+ ## 18. Clipboard Canvas
 
 ![image](https://github.com/d2dyno1/ClipboardCanvas/raw/master/ClipboardCanvas/Assets/NewCanvasImage.png)
 
@@ -160,7 +150,7 @@
 
 **Installation:** Download it from the [Microsoft Store](https://www.microsoft.com/en-us/p/clipboard-canvas/9nn2nzg8rltb#activetab=pivot:overviewtab) or [GitHub](https://github.com/d2dyno1/ClipboardCanvas/releases)
 
- ## 20. Hyper
+ ## 19. Hyper
 
 ![image](https://user-images.githubusercontent.com/78948152/131980286-d2ac3b08-29c9-4697-ba0f-c38ed034122a.png)
 
@@ -168,7 +158,7 @@
 
 **Installation:** Currently hyper is complicated to install. We don't recommend installing hyper. [Want to install anyway?](https://github.com/hyperts/Hyper)
 
-## 21. Taskbar Groups
+## 20. Taskbar Groups
 
 ![image](https://user-images.githubusercontent.com/88824061/132024424-d95ee8ce-78ba-4192-bab9-72dfd04b702e.png)
 
@@ -176,13 +166,13 @@
 
 **Installation**: Visit the [releases](https://github.com/tjackenpacken/taskbar-groups/releases/tag/v0.2.0.0)
 
- ## 22. Neofetch
+ ## 21. Winfetch
 
-![image](https://user-images.githubusercontent.com/78948152/133218359-ebcf7953-7d23-4070-981e-e9bb921466f1.png)
+![image](https://user-images.githubusercontent.com/46838874/109414247-f75e1600-79d7-11eb-90ea-d28d417b1654.png)
 
-**Description:** Neofetch is a command-line system information tool written in bash 3.2+. Neofetch displays information about your operating system, software and hardware in an aesthetic and visually pleasing way.
+**Description:** Winfetch is a command-line system information utility written in PowerShell 5+. Winfetch displays information about your operating system, software and hardware in an aesthetic and visually pleasing way.
 
-**Installation:** See the [installation wiki](https://github.com/dylanaraps/neofetch/wiki/Installation)
+**Installation:** See the [installation wiki](https://github.com/kiedtl/winfetch/wiki/Installation)
  
 ## Contributing
 Do you want to contribute to the repository? Just use this format and insert what you want, a line after the latest entry.
