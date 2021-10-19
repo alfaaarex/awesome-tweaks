@@ -1,6 +1,6 @@
 ![My Post-4](https://raw.githubusercontent.com/dlphin/dolphin/main/os-tweaks.png)
 
-<p align=center> A list of tweaks and programs for Windows which can be used to tweak or rice your system.
+<p align=center> A list of tweaks and programs for Windows, macOS and Linux which can be used to tweak or rice your system.
  
  
 
