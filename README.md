@@ -174,6 +174,14 @@
 
 **Installation:** See the [installation wiki](https://github.com/kiedtl/winfetch/wiki/Installation)
  
+  ## 22. Optimizer    
+ 
+ ![image](https://raw.githubusercontent.com/hellzerg/optimizer/master/banner.png)    
+ 
+ **Description:** A trusted Optimizer For Windows.  
+ 
+ **Installation:** Download [here](https://github.com/hellzerg/optimizer)
+ 
 ## Contributing
 Do you want to contribute to the repository? Just use this format and insert what you want, a line after the latest entry.
 
