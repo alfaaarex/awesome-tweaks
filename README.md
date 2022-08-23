@@ -156,7 +156,7 @@
 
 **Description:** Hyperbar is a topbar for windows built with web technology and ffi.
 
-**Installation:** Currently hyper is complicated to install. We don't recommend installing hyper. [Want to install anyway?](https://github.com/hyperts/Hyper)
+**Installation:** Currently hyper is complicated to install. We don't recommend installing hyper. [Want to install anyway?](https://github.com/hyperts/Hyper/tree/master)
 
 ## 20. Taskbar Groups
 
