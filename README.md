@@ -1,7 +1,7 @@
 ![My Post-4](https://raw.githubusercontent.com/dlphin/dolphin/main/os-tweaks.png)
 
 <p align=center> A list of tweaks and programs for Windows, MacOS and Linux which can be used to tweak or rice your system according to your liking.
-
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ## 1. Spicetify
 
