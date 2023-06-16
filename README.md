@@ -1,5 +1,5 @@
-![My Post-4](https://raw.githubusercontent.com/alfarexguy2019/awesome-tweaks/My project-1 (1).png)
 
+![image](https://github.com/AlfarexGuy2019/awesome-tweaks/blob/3aa8f49010e130465fa7db40b43449d55ef45185/My%20project-1%20(1).png)
 <p align=center> A list of tweaks and programs for Windows, MacOS and Linux which can be used to tweak or rice your system according to your liking.
 
 ## 1. Spicetify
