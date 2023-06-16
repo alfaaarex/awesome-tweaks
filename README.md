@@ -280,4 +280,3 @@ Do you want to contribute to the repository? Just use this format and insert wha
 
 ```
 If you wanna discuss with the owners and contributors, check out the [Discord Server](https://discord.gg/wdhKQ5zrfE).
-If you need help with any of these, ask them in [winthemers](https://discord.gg/82eTY8nSFH)!
